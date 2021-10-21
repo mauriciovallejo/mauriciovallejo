@@ -1,13 +1,12 @@
-### Hi there 👋
-MVM
-
-![Image1](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
-
+### Hi there 👋, MVM
 
 Biomedical Engineer and scientist, fascinated by the idea of unraveleing the mysteries of the brain by listening to it's electrical activity.
 If I'm not recording the brain signals, I'm analizing them.
 
 Electrophysiologist by trainning 
+
+![Image1](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
+
 
 
 **[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciovallejo)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,6 +20,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on software for analyzing invasive and non-invasive ephys brain data...
                           ... software for communicating wearables with brain recording systems for neuroscience research 
+
+![Image2](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
 
 
 
