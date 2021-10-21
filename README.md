@@ -1,8 +1,8 @@
-### Hi there 👋, MVM
+### Hi there 👋 ,  MVM
 
 Biomedical Engineer and scientist, fascinated by the idea of unraveleing the mysteries of the brain by listening to it's electrical activity.
-If I'm not recording the brain signals, I'm analizing them.
 
+If I'm not recording the brain signals, I'm analizing them.
 Electrophysiologist by trainning 
 
 ![Image1](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
