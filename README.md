@@ -4,13 +4,20 @@
 Biomedical Engineer and scientist, fascinated by the idea of unraveleing the mysteries of the brain by listening to it's electrical activity.
 
 If I'm not recording the brain signals, I'm analizing them.
-Electrophysiologist by trainning 
 
-![Image1](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
+# Electrophysiologist by trainning 
 
--I’m currently working on software for analyzing invasive and non-invasive ephys brain data...
-                          ... software for communicating wearables with brain recording systems for neuroscience research 
-![Image1](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
+<img width="812" alt="ICAs" src="https://user-images.githubusercontent.com/63880594/138370640-81ac6b13-67df-410b-a91c-a6f8b820c50a.png">
+
+## Currently working on...
+
+# Developing software for analyzing invasive and non-invasive ephys brain data...
+
+# Developing software for communicating wearables with brain recording systems for neuroscience research 
+
+![Backpack_walk](https://user-images.githubusercontent.com/63880594/138371152-c6c47501-cfe9-4d86-b976-60a4eda175e0.jpg)
+
+
 
 
 ## Skills and Experience
