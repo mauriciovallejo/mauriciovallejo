@@ -7,13 +7,15 @@ Electrophysiologist by trainning
 
 ![Image1](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
 
+- 🔭 I’m currently working on software for analyzing invasive and non-invasive ephys brain data...
+                          ... software for communicating wearables with brain recording systems for neuroscience research 
 
+![Image2](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/NeuronsTalking.mov)
 
 **[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciovallejo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
-<!--
 **mauriciovallejo/mauriciovallejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,9 +23,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on software for analyzing invasive and non-invasive ephys brain data...
                           ... software for communicating wearables with brain recording systems for neuroscience research 
 
-![Image2](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
+![Image2](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/NeuronsTalking.mov)
 
 
+<!--
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
