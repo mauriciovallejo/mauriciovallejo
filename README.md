@@ -1,5 +1,7 @@
 ### Hi there 👋
-![MVM](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
+MVM
+
+![Image1](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
 
 
 Biomedical Engineer and scientist, fascinated by the idea of unraveleing the mysteries of the brain by listening to it's electrical activity.
