@@ -1,4 +1,5 @@
-### Hi there 👋 ,  MVM
+### Hi there 👋 ,  I'm MV
+
 
 Biomedical Engineer and scientist, fascinated by the idea of unraveleing the mysteries of the brain by listening to it's electrical activity.
 
@@ -9,13 +10,16 @@ Electrophysiologist by trainning
 
 -I’m currently working on software for analyzing invasive and non-invasive ephys brain data...
                           ... software for communicating wearables with brain recording systems for neuroscience research 
+![Image1](https://github.com/mauriciovallejo/mauriciovallejo/blob/main/Backpack_walk.jpg)
+
+
+## Skills and Experience
 
 
 
-## SKills and Experience
 
-<webm src="https://github.com/mauriciovallejo/mauriciovallejo/blob/main/NeuronsTalking.mov" width="256"> 
 
+https://user-images.githubusercontent.com/63880594/138368337-34795c1e-42cb-4c1f-9163-38e134d3241a.mov
 
 
 
