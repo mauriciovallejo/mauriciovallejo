@@ -14,7 +14,7 @@ Electrophysiologist by trainning
 
 ## SKills and Experience
 
-<img src="https://github.com/mauriciovallejo/mauriciovallejo/blob/main/NeuronsTalking.mov" width="256"> 
+<webm src="https://github.com/mauriciovallejo/mauriciovallejo/blob/main/NeuronsTalking.mov" width="256"> 
 
 
 
