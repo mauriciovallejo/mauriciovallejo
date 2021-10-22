@@ -3,7 +3,7 @@
 
 Biomedical Engineer and Scientist, fascinated by the brain mysteries. 
 
-### ⚡ **Electrophysiology & Signal processsing & Data Analaysis** ⚡
+### ✨⚡ **Electrophysiology ⚡ Signal processsing ⚡ Data Analaysis** ⚡✨
 
 If I'm not recording brain signals, I'm analyzing them.
   
