@@ -25,7 +25,7 @@ Pipelines for preprocessing and analyzing invasive and non-invasive ephys brain 
   Thakos, Sci TranMed (2013)
 
 ### ***Egineering***
-Software and tools for communicating and synchronizing wearables sensors with brain recording systems for neuroscience research 
+Software and tools for communicating and synchronizing wearable sensors with brain recording systems for neuroscience research 
 
 
 ![Walk720](https://user-images.githubusercontent.com/63880594/138380371-7179e5b2-6ce1-4012-b0f4-fd4f185ed2cb.gif)
@@ -38,6 +38,15 @@ https://suthanalab.com/vr/
 
 
 ### ***Data Analysis***
+
+
+<!--
+EEG PIPELINE
+
+!-->
+
+
+
 
 ## Skills and Experience
 
@@ -52,7 +61,8 @@ bu picture
 bu video
 https://user-images.githubusercontent.com/63880594/138380034-3b605137-c033-404a-942f-1fc34a6991bf.mov
 
-!-->
+!-->!
+
 
 
 
@@ -67,8 +77,7 @@ https://user-images.githubusercontent.com/63880594/138368337-34795c1e-42cb-4c1f-
 
 !-->
 
-
-https://user-images.githubusercontent.com/63880594/138368337-34795c1e-42cb-4c1f-9163-38e134d3241a.mov
+[Short_NeuronsTalking](https://user-images.githubusercontent.com/63880594/138422980-4a2f8541-9e63-4c48-8cc7-1c6a8f1717ff.gif)
 
 
 
