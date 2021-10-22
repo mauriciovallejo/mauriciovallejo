@@ -27,13 +27,16 @@ Pipelines for preprocessing and analyzing invasive and non-invasive ephys brain 
 ### ***Egineering***
 Software and tools for communicating and synchronizing wearable sensors with brain recording systems for neuroscience research 
 
+https://suthanalab.com/vr/
 
-![Walk720](https://user-images.githubusercontent.com/63880594/138380371-7179e5b2-6ce1-4012-b0f4-fd4f185ed2cb.gif)
+
+![Equipment_Synch](https://user-images.githubusercontent.com/63880594/138511967-2a17fd8c-205c-45c7-af77-fbccfa7ab763.gif)
 
 
 Continuing and expanding colleagues work  https://doi.org/10.1016/j.neuron.2020.08.021
 
-https://suthanalab.com/vr/
+
+![Walk720](https://user-images.githubusercontent.com/63880594/138380371-7179e5b2-6ce1-4012-b0f4-fd4f185ed2cb.gif)
 
 
 
