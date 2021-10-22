@@ -61,7 +61,7 @@ bu picture
 bu video
 https://user-images.githubusercontent.com/63880594/138380034-3b605137-c033-404a-942f-1fc34a6991bf.mov
 
-!-->!
+!-->
 
 
 
@@ -77,7 +77,7 @@ https://user-images.githubusercontent.com/63880594/138368337-34795c1e-42cb-4c1f-
 
 !-->
 
-Roden Visual Cortex
+**Roden Visual Cortex**
 
 
 
@@ -86,7 +86,7 @@ Roden Visual Cortex
 ![Short_NeuronsTalking](https://user-images.githubusercontent.com/63880594/138422980-4a2f8541-9e63-4c48-8cc7-1c6a8f1717ff.gif)
 
 
-HUMAN Hippocampus
+**Human Hippocampus**
 
 
 
