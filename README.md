@@ -1,4 +1,4 @@
-### Hi there 👋 ,  I'm MV
+## Hi there 👋 ,  I'm MV
 
 
 Biomedical Engineer and Scientist, fascinated by the brain mysteries. 
@@ -7,11 +7,16 @@ If I'm not recording brain signals, I'm analyzing them.
   
   Electrophysiologist by trainning 
 
-<img width="420" alt="ICAs" src="https://user-images.githubusercontent.com/63880594/138370640-81ac6b13-67df-410b-a91c-a6f8b820c50a.png">
+<img width="812" alt="ICAs" src="https://user-images.githubusercontent.com/63880594/138370640-81ac6b13-67df-410b-a91c-a6f8b820c50a.png">
+<img width="812" alt="HEATMAP" src="https://user-images.githubusercontent.com/63880594/138374880-09fcf1f5-2f34-4a94-99b5-7924cd7548b3.png">
+
 
 # Currently working on...
 
 ### Developing software for analyzing invasive and non-invasive ephys brain data...
+
+<img width="877" alt="BMI" src="https://user-images.githubusercontent.com/63880594/138376348-ebb09a89-4e0e-4213-b2f1-5e201d98adfe.png">
+                                                                                              #Thakos, Sci TranMed (2013)
 
 ### Developing software for communicating wearables with brain recording systems for neuroscience research 
 
