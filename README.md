@@ -12,7 +12,6 @@ If I'm not recording brain signals, I'm analyzing them.
 
 
 
-https://user-images.githubusercontent.com/63880594/138379222-2875f95b-784f-4e7e-ada5-973c5a747fdc.MOV
 
 
 # Currently working on...
@@ -24,7 +23,9 @@ https://user-images.githubusercontent.com/63880594/138379222-2875f95b-784f-4e7e-
 
 ### Developing software and tools for communicating and synchronizing wearables sensors with brain recording systems for neuroscience research 
 
-![Backpack_walk](https://user-images.githubusercontent.com/63880594/138371152-c6c47501-cfe9-4d86-b976-60a4eda175e0.jpg)
+
+![Walk720](https://user-images.githubusercontent.com/63880594/138380371-7179e5b2-6ce1-4012-b0f4-fd4f185ed2cb.gif)
+
 
 Continuing and expanding colleagues work  https://doi.org/10.1016/j.neuron.2020.08.021
 
@@ -37,14 +38,33 @@ https://suthanalab.com/vr/
 
 
 
-https://user-images.githubusercontent.com/63880594/138379077-c04ca652-d555-4062-81e5-d8516fdbc206.MOV
+<!--
+Video walking
+bu picture
+![Backpack_walk](https://user-images.githubusercontent.com/63880594/138371152-c6c47501-cfe9-4d86-b976-60a4eda175e0.jpg)
+bu video
+https://user-images.githubusercontent.com/63880594/138380034-3b605137-c033-404a-942f-1fc34a6991bf.mov
+
+!-->
 
 
 
 
+
+
+
+<!--
+Neurons talking
+bu video 
+https://user-images.githubusercontent.com/63880594/138368337-34795c1e-42cb-4c1f-9163-38e134d3241a.mov
+
+!-->
 
 
 https://user-images.githubusercontent.com/63880594/138368337-34795c1e-42cb-4c1f-9163-38e134d3241a.mov
+
+
+
 
 
 
