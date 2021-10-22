@@ -3,7 +3,7 @@
 
 Biomedical Engineer and Scientist, fascinated by the brain mysteries. 
 
-### ✨⚡ **Electrophysiology ⚡ Signal processsing ⚡ Data Analaysis** ⚡✨
+### ⚡🧠 **Electrophysiology        ⚡ 💻 Signal processsing         ⚡💹 Data Analaysis**
 
 If I'm not recording brain signals, I'm analyzing them.
   
@@ -24,8 +24,8 @@ Pipelines for preprocessing and analyzing invasive and non-invasive ephys brain 
 <img width="877" alt="BMI" src="https://user-images.githubusercontent.com/63880594/138376348-ebb09a89-4e0e-4213-b2f1-5e201d98adfe.png">
   Thakos, Sci TranMed (2013)
 
-### ***Egineering***
-Software and tools for communicating and synchronizing wearable sensors with brain recording systems for neuroscience research 
+### ***Engineering***
+Software and tools for communicating and synchronizing wearables with brain recording systems for research 
 
 https://suthanalab.com/vr/
 
@@ -39,24 +39,6 @@ Continuing and expanding colleagues work  https://doi.org/10.1016/j.neuron.2020.
 ![Walk720](https://user-images.githubusercontent.com/63880594/138380371-7179e5b2-6ce1-4012-b0f4-fd4f185ed2cb.gif)
 
 
-
-### ***Data Analysis***
-
-
-<!--
-EEG PIPELINE
-
-!-->
-
-
-
-
-## Skills and Experience
-
-
-
-
-
 <!--
 Video walking
 bu picture
@@ -67,7 +49,16 @@ https://user-images.githubusercontent.com/63880594/138380034-3b605137-c033-404a-
 !-->
 
 
+### ***Data Analysis***
 
+
+<!--
+EEG PIPELINE
+
+!-->
+
+
+## Skills and Experience
 
 
 
@@ -77,24 +68,23 @@ https://user-images.githubusercontent.com/63880594/138380034-3b605137-c033-404a-
 Neurons talking
 bu video 
 https://user-images.githubusercontent.com/63880594/138368337-34795c1e-42cb-4c1f-9163-38e134d3241a.mov
+![Short_BlackRock](https://user-images.githubusercontent.com/63880594/138513745-49169396-f9cf-4428-92fb-5213d08e8cc1.gif)
 
 !-->
 
-**Roden Visual Cortex**
+**Roden Visual Cortex**.                                            **Human Hippocampus**
 
 
 
+<img width="300" alt="Short_NeuronsTalking" src="https://user-images.githubusercontent.com/63880594/138422980-4a2f8541-9e63-4c48-8cc7-1c6a8f1717ff.gif"> 
 
 
-![Short_NeuronsTalking](https://user-images.githubusercontent.com/63880594/138422980-4a2f8541-9e63-4c48-8cc7-1c6a8f1717ff.gif)
 
 
 **Human Hippocampus**
 
 
-
-
-![Short_BlackRock](https://user-images.githubusercontent.com/63880594/138426757-0ee0cd39-b930-45ef-b564-b79caf8cd327.gif)
+<img width="300" alt="Short_NeuronsTalking" src="https://user-images.githubusercontent.com/63880594/138513745-49169396-f9cf-4428-92fb-5213d08e8cc1.gif">
 
 
 **[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciovallejo)](https://github.com/anuraghazra/github-readme-stats)
