@@ -22,8 +22,9 @@ If I'm not recording brain signals, I'm analyzing them.
 
 ![Backpack_walk](https://user-images.githubusercontent.com/63880594/138371152-c6c47501-cfe9-4d86-b976-60a4eda175e0.jpg)
 
-Following https://doi.org/10.1016/j.neuron.2020.08.021
+Continuing and expanding colleagues work  https://doi.org/10.1016/j.neuron.2020.08.021
 
+https://suthanalab.com/vr/
 
 
 ## Skills and Experience
