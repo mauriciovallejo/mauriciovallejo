@@ -11,6 +11,10 @@ If I'm not recording brain signals, I'm analyzing them.
 <img width="812" alt="HEATMAP" src="https://user-images.githubusercontent.com/63880594/138374880-09fcf1f5-2f34-4a94-99b5-7924cd7548b3.png">
 
 
+
+https://user-images.githubusercontent.com/63880594/138379222-2875f95b-784f-4e7e-ada5-973c5a747fdc.MOV
+
+
 # Currently working on...
 
 ### Developing software for analyzing invasive and non-invasive ephys brain data...
