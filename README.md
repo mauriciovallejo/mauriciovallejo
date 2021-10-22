@@ -17,12 +17,15 @@ If I'm not recording brain signals, I'm analyzing them.
 
 # Currently working on...
 
-### Developing software for analyzing invasive and non-invasive ephys brain data...
+### ***Software Development***
+Pipelines for preprocessing and analyzing invasive and non-invasive ephys brain data. 
+**INCLUDING**:
 
 <img width="877" alt="BMI" src="https://user-images.githubusercontent.com/63880594/138376348-ebb09a89-4e0e-4213-b2f1-5e201d98adfe.png">
   Thakos, Sci TranMed (2013)
 
-### Developing software and tools for communicating and synchronizing wearables sensors with brain recording systems for neuroscience research 
+### ***Egineering***
+Software and tools for communicating and synchronizing wearables sensors with brain recording systems for neuroscience research 
 
 
 ![Walk720](https://user-images.githubusercontent.com/63880594/138380371-7179e5b2-6ce1-4012-b0f4-fd4f185ed2cb.gif)
@@ -32,6 +35,9 @@ Continuing and expanding colleagues work  https://doi.org/10.1016/j.neuron.2020.
 
 https://suthanalab.com/vr/
 
+
+
+### ***Data Analysis***
 
 ## Skills and Experience
 
