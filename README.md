@@ -16,9 +16,9 @@ If I'm not recording brain signals, I'm analyzing them.
 ### Developing software for analyzing invasive and non-invasive ephys brain data...
 
 <img width="877" alt="BMI" src="https://user-images.githubusercontent.com/63880594/138376348-ebb09a89-4e0e-4213-b2f1-5e201d98adfe.png">
-                                                                                              #Thakos, Sci TranMed (2013)
+  Thakos, Sci TranMed (2013)
 
-### Developing software for communicating wearables with brain recording systems for neuroscience research 
+### Developing software and tools for communicating and synchronizing wearables sensors with brain recording systems for neuroscience research 
 
 ![Backpack_walk](https://user-images.githubusercontent.com/63880594/138371152-c6c47501-cfe9-4d86-b976-60a4eda175e0.jpg)
 
