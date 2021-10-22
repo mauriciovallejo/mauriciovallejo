@@ -77,11 +77,21 @@ https://user-images.githubusercontent.com/63880594/138368337-34795c1e-42cb-4c1f-
 
 !-->
 
-[Short_NeuronsTalking](https://user-images.githubusercontent.com/63880594/138422980-4a2f8541-9e63-4c48-8cc7-1c6a8f1717ff.gif)
+Roden Visual Cortex
 
 
 
 
+
+![Short_NeuronsTalking](https://user-images.githubusercontent.com/63880594/138422980-4a2f8541-9e63-4c48-8cc7-1c6a8f1717ff.gif)
+
+
+HUMAN Hippocampus
+
+
+
+
+![Short_BlackRock](https://user-images.githubusercontent.com/63880594/138426757-0ee0cd39-b930-45ef-b564-b79caf8cd327.gif)
 
 
 **[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciovallejo)](https://github.com/anuraghazra/github-readme-stats)
