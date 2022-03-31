@@ -7,11 +7,11 @@ Biomedical Engineer and Scientist, fascinated by the brain mysteries.
 
 If I'm not recording brain signals, I'm analyzing them.
   
-scalp EEG
-<img width="812" alt="ICAs" src="https://user-images.githubusercontent.com/63880594/138370640-81ac6b13-67df-410b-a91c-a6f8b820c50a.png">
+# scalp EEG
+ <img width="812" alt="ICAs" src="https://user-images.githubusercontent.com/63880594/138370640-81ac6b13-67df-410b-a91c-a6f8b820c50a.png">
 
-intra cranial recordings 
-<img width="812" alt="HEATMAP" src="https://user-images.githubusercontent.com/63880594/138374880-09fcf1f5-2f34-4a94-99b5-7924cd7548b3.png">
+# intra cranial recordings 
+ <img width="812" alt="HEATMAP" src="https://user-images.githubusercontent.com/63880594/138374880-09fcf1f5-2f34-4a94-99b5-7924cd7548b3.png">
 
 
 
