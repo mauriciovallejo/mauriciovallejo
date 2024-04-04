@@ -45,7 +45,7 @@
 
 Biomedical Engineer and Data Scientist, fascinated by the brain. 
 
-### ⚡🧠 **Electrophysiology        ⚡ 💻 Signal processsing         ⚡💹 Data Science**
+### ⚡🧠 **Electrophysiology         💻 Signal processsing         💹 Data Science**
 
 If I'm not recording brain signals, I'm analyzing them.
   
@@ -126,8 +126,7 @@ https://user-images.githubusercontent.com/63880594/138368337-34795c1e-42cb-4c1f-
 
 !-->
 
-**Roden Visual Cortex**.                                            **Human Hippocampus**
-
+**Roden Visual Cortex**.                                         
 
 
 <img width="300" alt="Short_NeuronsTalking" src="https://user-images.githubusercontent.com/63880594/138422980-4a2f8541-9e63-4c48-8cc7-1c6a8f1717ff.gif"> 
