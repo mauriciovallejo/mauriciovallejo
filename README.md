@@ -1,4 +1,4 @@
-## Hi there 👋 ,  I'm MV
+## Hi there 👋 ,  I'm MAuricio Vallejo Martelo
 
 
 Biomedical Engineer and Scientist, fascinated by the brain mysteries. 
