@@ -24,6 +24,9 @@ Reliable and interpretable reports that can help clinician's decision making and
 
 Currently focused on neuromodulation for treatment-resistant PTSD including closed-loop RNS.
 
+[![TR-PTSD](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D34CKXNzNIMA)](https://www.youtube.com/watch?v=34CKXNzNIMA)
+
+
 
 ### ***Software Development***
 Sofware for preprocessing and analyzing invasive and non-invasive neural data. 
