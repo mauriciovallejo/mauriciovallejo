@@ -10,7 +10,7 @@ If I'm not recording brain signals, I'm analyzing them.
 # scalp EEG
  <img width="812" alt="ICAs" src="https://user-images.githubusercontent.com/63880594/138370640-81ac6b13-67df-410b-a91c-a6f8b820c50a.png">
 
-# intra cranial recordings 
+#  Hippocampal intra cranial recordings, in freely moving Humans !
  <img width="812" alt="HEATMAP" src="https://user-images.githubusercontent.com/63880594/138374880-09fcf1f5-2f34-4a94-99b5-7924cd7548b3.png">
 
 
@@ -18,9 +18,16 @@ If I'm not recording brain signals, I'm analyzing them.
 
 
 # Currently working on...
+### ***Software Development***
+Software for researchers and clinicias for monitoring and analyzing brain activity. 
+Reliable and interpretable reports that can help clinician's decision making and designing novel therapeutic approaches.
+
+Currently focused on neuromodulation for treatment-resistant PTSD including closed-loop RNS.
+
 
 ### ***Software Development***
-Pipelines for preprocessing and analyzing invasive and non-invasive ephys brain data. 
+Sofware for preprocessing and analyzing invasive and non-invasive neural data. 
+
 **INCLUDING**:
 
 <img width="877" alt="BMI" src="https://user-images.githubusercontent.com/63880594/138376348-ebb09a89-4e0e-4213-b2f1-5e201d98adfe.png">
