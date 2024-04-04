@@ -1,7 +1,7 @@
 ## Hi there 👋 ,  I'm Mauricio Vallejo Martelo
 
 
-Biomedical Engineer and Scientist, fascinated by the brain mysteries. 
+Biomedical Engineer and Data Scientist, fascinated by the brain. 
 
 ### ⚡🧠 **Electrophysiology        ⚡ 💻 Signal processsing         ⚡💹 Data Science**
 
